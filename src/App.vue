@@ -1,4 +1,6 @@
 <script setup lang="ts">
+//import ConstLet from "./typescript/ConstLet.vue"
+//import ControlFlujo from "./typescript/ControlFlujo.vue"
 
 
 </script>
@@ -8,7 +10,8 @@
 
   <h1>Vue + TS</h1>
 
-  <ConstLet />
+  <!-- <ConstLet /> -->
+  <!-- <ControlFlujo /> -->
 
 </template>
 
